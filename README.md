@@ -16,8 +16,6 @@ vulnerability assessment.
 
 ## Tools & Technologies
 - Linux
-- SQL
-- Git & GitHub
 - SIEM Concepts
   
 
